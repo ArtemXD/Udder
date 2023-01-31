@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         //sdijfs
     }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        //dsfjuisk
+    }
 
 }
 
