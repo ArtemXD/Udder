@@ -21,6 +21,10 @@ class ViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         //dsfjuisk
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        ///sdfsd
+    }
 
 }
 
